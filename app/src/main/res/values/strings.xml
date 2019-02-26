@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VollyExample</string>
+    <string name="server_message_will_appear_here">Server Message will appear here</string>
+    <string name="get">GET</string>
+</resources>
